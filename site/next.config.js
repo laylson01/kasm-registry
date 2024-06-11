@@ -1,7 +1,7 @@
 const nextConfig = {
   env: {
-    name: 'Lacolyn KASM TEMPLATE',
-    description: 'Test',
+    name: 'Laylson C. Silva',
+    description: 'Workspace Registry',
     icon: '/img/logo.svg',
     listUrl: 'https://laylson01.github.io/kasm-registry/1.0/',
     contactUrl: 'https://lacolyn.com/',
