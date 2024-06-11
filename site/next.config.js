@@ -3,7 +3,7 @@ const nextConfig = {
     name: 'TESTE KASM TEMPLATE',
     description: 'The NOVA Corporation Kasm Images',
     icon: '/img/logo.svg',
-    listUrl: 'https://laylson01.github.io/kasm-registry/',
+    listUrl: 'https://laylson01.github.io/kasm-registry/1.0/',
     contactUrl: 'https://lacolyn.com/',
   },
   reactStrictMode: true,
