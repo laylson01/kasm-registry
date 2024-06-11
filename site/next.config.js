@@ -4,7 +4,7 @@ const nextConfig = {
     description: 'The NOVA Corporation Kasm Images',
     icon: '/img/logo.svg',
     listUrl: 'https://laylson01.github.io/kasm-registry/',
-    contactUrl: 'https://thenovacorporation.com',
+    contactUrl: 'https://lacolyn.com/',
   },
   reactStrictMode: true,
   swcMinify: true,
