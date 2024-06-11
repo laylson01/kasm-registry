@@ -1,7 +1,7 @@
 const nextConfig = {
   env: {
-    name: 'Laylson C. Silva',
-    description: 'Workspace Registry',
+    name: 'LAYLSON DA CONCEIÇÃO DILVA',
+    description: 'W O R K S P A C E R E G I S T R Y',
     icon: '/img/logo.svg',
     listUrl: 'https://laylson01.github.io/kasm-registry/1.0/',
     contactUrl: 'https://lacolyn.com/',
