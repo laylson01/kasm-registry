@@ -1,7 +1,7 @@
 const nextConfig = {
   env: {
-    name: 'TESTE KASM TEMPLATE',
-    description: 'The NOVA Corporation Kasm Images',
+    name: 'Lacolyn KASM TEMPLATE',
+    description: 'Test',
     icon: '/img/logo.svg',
     listUrl: 'https://laylson01.github.io/kasm-registry/1.0/',
     contactUrl: 'https://lacolyn.com/',
